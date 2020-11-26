@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical and Computer Engineering, University of Florida, Gainesville, FL, August 2016
+
+* M.S. in Information and Communication Engineering, Tsinghua University, Beijing, China, July 2012
+     
+* B.E. in Electronics and Information Engineering (Special Class for the Gifted Young), Huazhong University of Science and Technology, Wuhan, China, July 2009
+
 
 Work experience
 ======
