@@ -13,8 +13,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/   
-#   - title: "CV"
-#     url: /cv/
+    
+  - title: "CV"
+    url: /cv/
     
   - title: "Service"
     url: /service/
@@ -22,8 +23,8 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
 
-  - title: "Education and Honors"
-    url: /education/    
+#   - title: "Education and Honors"
+#     url: /education/    
     
   - title: "People"
     url: /people/    
