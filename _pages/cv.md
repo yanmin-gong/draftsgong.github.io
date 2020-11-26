@@ -28,15 +28,6 @@ Work experience
  * 08/2016 -- 07/2019: Assistant Professor
   	* School of Electrical and Computer Engineering 
 	* Oklahoma State University, Stillwater, OK
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
