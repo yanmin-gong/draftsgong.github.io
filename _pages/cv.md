@@ -20,15 +20,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  
+ * 08/2019 -- present: Assistant Professor
+  * Department of Electrical and Computer Engineering 
+	* The University of Texas at San Antonio, San Antonio, TX
+	
+ * 08/2016 -- 07/2019: Assistant Professor
+  * School of Electrical and Computer Engineering 
+	* Oklahoma State University, Stillwater, OK
   
 Skills
 ======
