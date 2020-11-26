@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yanmin Gong / Personal Webpage"
+title                    : "Yanmin Gonge"
 title_separator          : "-"
 name                     : &name "Yanmin Gong"
-description              : &description "personal description"
+description              : &description "Assistant Professor at UTSA"
 url                      : https://yanmin-gong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanmin-gong/yanmin-gong.github.io"
