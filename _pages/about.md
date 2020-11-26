@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio. She received her Ph.D. degree from the Department of Electrical and Computer Engineering at the University of Florida in 2016. She received the B.E. degree in electronics and information engineering at Huazhong University of Science & Technology, Wuhan, China, in 2009, and the M.S. degree in information and communication engineering at Tsinghua University, Beijing, China, in 2012.
+Short bio
+======
+Dr. Yanmin Gong is an assistant professor in the Department of Electrical and Computer Engineering at The University of Texas at San Antonio. She received her Ph.D. degree from the Department of Electrical and Computer Engineering at the University of Florida in 2016. She received the B.E. degree in electronics and information engineering at Huazhong University of Science & Technology, Wuhan, China, in 2009, and the M.S. degree in information and communication engineering at Tsinghua University, Beijing, China, in 2012.
 
 Research Interests
 ======
