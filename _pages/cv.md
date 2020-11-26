@@ -22,11 +22,11 @@ Work experience
 ======
   
  * 08/2019 -- present: Assistant Professor
-  * Department of Electrical and Computer Engineering 
+  	* Department of Electrical and Computer Engineering 
 	* The University of Texas at San Antonio, San Antonio, TX
 	
  * 08/2016 -- 07/2019: Assistant Professor
-  * School of Electrical and Computer Engineering 
+  	* School of Electrical and Computer Engineering 
 	* Oklahoma State University, Stillwater, OK
   
 Skills
